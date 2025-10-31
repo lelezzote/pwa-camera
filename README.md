@@ -1,4 +1,4 @@
-# 📸 PWA Câmera com Vite e JavaScript Vanilla
+#PWA Câmera com Vite e JavaScript Vanilla
 
 Aplicação **Progressive Web App (PWA)** desenvolvida com **JavaScript Vanilla** e **Vite**, que permite acessar a câmera do dispositivo para capturar imagens diretamente no navegador.
 
